@@ -24,7 +24,7 @@ def abrir_acerca_de():
 # VENTANA PRINCIPAL
 # -------------------------
 ventana = tk.Tk()
-ventana.title("Punto de Venta - Ropa")
+ventana.title("NK fashion - Ropa")
 ventana.geometry("500x600")
 ventana.resizable(False, False)
 
@@ -68,3 +68,4 @@ btn_acerca.pack(pady=10)
 # INICIO DE LA APP
 # -------------------------
 ventana.mainloop()
+
